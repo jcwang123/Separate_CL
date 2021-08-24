@@ -2,7 +2,7 @@
 
 TODO:
 
-- [n] Net Codes
-- [n] Baseline Codes
-- [n] b-SLS
-- [n] SLS
+- [ ] Net Codes
+- [ ] Baseline Codes
+- [ ] b-SLS
+- [ ] SLS
