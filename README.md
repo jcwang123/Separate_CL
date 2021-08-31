@@ -1,6 +1,6 @@
 # Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation
 
-Detailed codes will come soon!
+Prior work hasn't separated feature extraction of regions from an image, so that regions from an image will share more similar semantics than that from different images, causing unfair comparison of semantics cross images. Thus, this paper delivers a separate learning scheme that divides an image into regions and encodes their feature separately for comparing regions to more diverse images equally.
 
 ## Code List
 
@@ -18,6 +18,7 @@ Detailed codes will come soon!
 ```bash
 $ python utils/prepare_data.py
 ```
+
 Note that some cases lack the complete annotation, so that we can obtain 32 cases with full annotation in the end.
 
 2. To create the region set, run:
