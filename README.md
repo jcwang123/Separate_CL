@@ -18,6 +18,7 @@ Detailed codes will come soon!
 ```bash
 $ python utils/prepare_data.py
 ```
+Note that some cases lack the complete annotation, so that we can obtain 32 cases with full annotation in the end.
 
 2. To create the region set, run:
 
