@@ -1,4 +1,4 @@
-# Separate Contrastive Learning for Organ-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation
+# A paper
 
 Prior work hasn't separated feature extraction of regions from an image, so that regions from an image will share more similar semantics than that from different images, causing unfair comparison of semantics cross images. Thus, this paper delivers a separate learning scheme that divides an image into regions and encodes their feature separately for comparing regions to more diverse images equally.
 
