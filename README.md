@@ -1,4 +1,4 @@
-# Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation
+# A paper
 
 ## Introduction
 
