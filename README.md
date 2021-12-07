@@ -11,6 +11,13 @@ This is an official release of the paper **Separate Contrastive Learning for Org
 
 <div align="center" border=> <img src=framework.png width="600" > </div>
 
+## TODO List
+
+1. Complete the resources ...
+
+2. Evaluate the effectiveness on more vision tasks ...
+
+
 ## Code List
 
 - [x] Comparison Methods, [Here](https://github.com/jcwang123/AwesomeContrastiveLearning)
