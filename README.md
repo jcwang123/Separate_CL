@@ -4,10 +4,10 @@
 
 This is an official release of the paper **Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation**.
 
-> [**Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation**](),   <br/>
+> [**Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation**](https://arxiv.org/abs/2112.02743),   <br/>
 > **Jiacheng Wang**, Xiaomeng Li, Yiming Han, Jing Qin, Liansheng Wang, Qichao Zhou<br/>
 > In: Association for the Advancement of Artificial Intelligence (AAAI), 2022  <br/>
-> [[arXiv]()][[Bibetex](https://github.com/jcwang123/Separate_CL#citation)]
+> [[arXiv](https://arxiv.org/abs/2112.02743)][[Bibetex](https://github.com/jcwang123/Separate_CL#citation)]
 
 <div align="center" border=> <img src=framework.png width="600" > </div>
 
