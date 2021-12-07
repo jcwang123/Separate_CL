@@ -31,19 +31,19 @@ This is an official release of the paper **Separate Contrastive Learning for Org
 
 1. First, you can download the dataset at [PDDCA](https://www.imagenglab.com/newsite/pddca/). To preprocess the dataset and save as ".png", run:
 
-```bash
-$ python utils/prepare_data.py
-```
+    ```bash
+    $ python utils/prepare_data.py
+    ```
 
-Note that some cases lack the complete annotation, so that we can obtain 32 cases with full annotation in the end.
+    Note that some cases lack the complete annotation, so that we can obtain 32 cases with full annotation in the end.
 
 2. To create the region set, alternatively run:
 
-```bash
-$ python utils/prepare_segs.py --dataset pddca --filter_method all --seg_method fb --min_size 400
-$ python utils/prepare_segs.py --dataset pddca --filter_method all --seg_method slic --n_segments 32
-$ python utils/prepare_segs.py --dataset pddca --filter_method all --seg_method slice --n_segments 32
-```
+    ```bash
+    $ python utils/prepare_segs.py --dataset pddca --filter_method all --seg_method fb --min_size 400
+    $ python utils/prepare_segs.py --dataset pddca --filter_method all --seg_method slic --n_segments 32
+    $ python utils/prepare_segs.py --dataset pddca --filter_method all --seg_method slice --n_segments 32
+    ```
 
 ## Citation
 
