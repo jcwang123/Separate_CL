@@ -4,6 +4,8 @@
 
 This is an official release of the paper **Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation**.
 
+It is awarded an **AAAI student scholarship**.
+
 > [**Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation**](https://arxiv.org/abs/2112.02743),   <br/>
 > **Jiacheng Wang**, Xiaomeng Li, Yiming Han, Jing Qin, Liansheng Wang, Qichao Zhou<br/>
 > In: Association for the Advancement of Artificial Intelligence (AAAI), 2022  <br/>
