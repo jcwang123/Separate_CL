@@ -7,7 +7,7 @@ This is an official release of the paper **Separate Contrastive Learning for Org
 It is accepted by **AAAI-2022 Oral** and has been awarded an **AAAI student scholarship**.
 
 > [**Separate Contrastive Learning for Organs-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation**](https://arxiv.org/abs/2112.02743),   <br/>
-> **Jiacheng Wang**, Xiaomeng Li, Yiming Han, Jing Qin, Liansheng Wang, Qichao Zhou<br/>
+> **Jiacheng Wang**, Xiaomeng Li, Yiming Han, Jing Qin, Liansheng Wang, Zhou Qichao<br/>
 > In: Association for the Advancement of Artificial Intelligence (AAAI), 2022  <br/>
 > [[arXiv](https://arxiv.org/abs/2112.02743)][[Bibetex](https://github.com/jcwang123/Separate_CL#citation)]
 
