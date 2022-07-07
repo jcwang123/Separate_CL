@@ -50,6 +50,7 @@ It is accepted by **AAAI-2022 Oral** and has been awarded an **AAAI student scho
 ## Citation
 
 If you find **SepaReg** useful in your research, please consider citing:
+```
 @inproceedings{wang2022separated,
   title={Separated Contrastive Learning for Organ-at-Risk and Gross-Tumor-Volume Segmentation with Limited Annotation},
   author={Wang, Jiacheng and Li, Xiaomeng and Han, Yiming and Qin, Jing and Wang, Liansheng and Qichao, Zhou},
@@ -59,3 +60,4 @@ If you find **SepaReg** useful in your research, please consider citing:
   pages={2459--2467},
   year={2022}
 }
+```
